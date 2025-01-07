@@ -17,3 +17,8 @@ Check `list_indexing.py` file for a demonstration of how indexing works.
 - Allows the extraction of sub-lists from a list using **start**, **stop**, and **step** indices.
 - The start index is **inclusive**, the stop index is **exclusive**, and the step interval is the interval between elements.
 check `list_slice.py` for a demonstration.
+### Append
+- Adding elements to the end of a list.
+- Use the `append()` method to add an element to the end of a list.
+Check the `list_append.py` for an illustration.
+
