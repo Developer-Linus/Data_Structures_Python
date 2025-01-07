@@ -21,4 +21,8 @@ check `list_slice.py` for a demonstration.
 - Adding elements to the end of a list.
 - Use the `append()` method to add an element to the end of a list.
 Check the `list_append.py` for an illustration.
+### Removing
+- Deleting items from a list.
+- Use the `remove()` method to delete a specific element by its value or use the `del` keyword followed by the index to delete by the index.
+Check the file `list_remove.py` for an illustration.
 
