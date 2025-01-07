@@ -2,9 +2,9 @@
 - **Data Structures** are fundamental building blocks in Python that organize and store collections of data.
 - Choosing the right data structure for my task is crucial for `efficient code` and `memory usage`.
 ## Common Data Structures
-(a) *Lists*: Ordered, mutable collections of items enclosed in square brackets [].
-(b) *Tuples*: Ordered, imutable collections of data items enclosed in parantheses ().
-(c) *Sets*: Unordered collections of unique items enclosed in curly {} brackets. Useful for removing duplicates and checking element membership.
+(a) *Lists*: Ordered, mutable collections of items enclosed in square brackets []. <br>
+(b) *Tuples*: Ordered, imutable collections of data items enclosed in parantheses (). <br>
+(c) *Sets*: Unordered collections of unique items enclosed in curly {} brackets. Useful for removing duplicates and checking element membership. <br>
 (d) *Dictionaries*: Unordered collection of key-value pairs enclosed in curly braces {}. Keys must be unique and immutable, while values can be of any data type. Efficient for storing data associated with labels. 
 # Manipulating Data Structures
 ## Operations on Lists
