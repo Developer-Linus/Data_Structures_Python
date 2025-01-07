@@ -13,3 +13,7 @@
 - It starts from 0 (zero) for the first element, 1 for the second element, and so on. 
 - Use square brackets [] with the index number to access the element at that position.
 Check `list_indexing.py` file for a demonstration of how indexing works.
+### Slicing
+- Allows the extraction of sub-lists from a list using **start**, **stop**, and **step** indices.
+- The start index is **inclusive**, the stop index is **exclusive**, and the step interval is the interval between elements.
+check `list_slice.py` for a demonstration.
